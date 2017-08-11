@@ -1,0 +1,11 @@
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\MiroLocalDb\Case.Core.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\MiroLocalDb\Case.Core.pdb
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\MiroLocalDb\DataAccess.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\MiroLocalDb\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\MiroLocalDb\Dapper.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\MiroLocalDb\DataAccess.pdb
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\MiroLocalDb\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\MiroLocalDb\Dapper.xml
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\obj\MiroLocalDb\Case.Core.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\obj\MiroLocalDb\Case.Core.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\obj\MiroLocalDb\Case.Core.pdb

@@ -1,0 +1,9 @@
+﻿@model Case.Core.Model.RentAttemptModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+@(Model.IsSuccesful ? Html.Raw("<h1>Succesfully rented the book(s)</h1>") : Html.Raw("<h1>Failed to rent the books</h1></ br><p>Error: " + Model.ErrorMessage + "</p>"))

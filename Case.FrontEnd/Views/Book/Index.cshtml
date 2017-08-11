@@ -1,0 +1,73 @@
+﻿@model Case.Core.Model.BookCatalogModel
+
+@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<!-- loop through each of your products and display it however you want. we're just printing the name here -->
+<table class="table">
+    <tr>
+        <th>
+            <!--Accordin to SO should work even its null-->
+            @{ Case.Core.Model.BookCatalogItem dummyModel = null; }
+            @Html.DisplayNameFor(param => dummyModel.Isbn)
+        </th>
+        <th>
+            @Html.DisplayNameFor(param => dummyModel.Title)
+        </th>
+        <th>
+            @Html.DisplayNameFor(param => dummyModel.Author)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.Books) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Isbn)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Title)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Author)
+        </td>
+        <td>
+            <button class="add_to_cart" id="add_to_cart_@Html.Raw(item.Isbn)">Add to Cart</button>
+            <script type="text/javascript">
+                $(function () {
+                    $('#add_to_cart_@Html.Raw(item.Isbn)').click(function () {
+                        var storedIsbns = JSON.parse(localStorage.getItem("isbns"));
+                        if (storedIsbns == null) {
+                            storedIsbns = [];
+                        }
+                        storedIsbns.push(@Html.Raw(Json.Encode(item.Isbn)));
+                        console.log(@Html.Raw(Json.Encode(item.Isbn)));
+                        localStorage.setItem("isbns", JSON.stringify(storedIsbns));
+                    });
+                });
+            </script><!--Or just 'Rent' maybe?-->
+
+        </td>
+    </tr>
+}
+    </table>
+
+<span>
+    @{
+        if (Model.IsBackAvailable)
+        {
+            @Html.Raw("<span>")
+            @Html.ActionLink("Back", "Index", new {page = Model.PageIndex - 1})
+            @Html.Raw("</span>")
+        }
+        @Html.Raw("<span style='padding-left:10px;padding-right:10px;'>" + Model.PageIndex + "</span>")
+        if (Model.IsNextAvailable)
+        {
+            @Html.Raw("<span>")
+            @Html.ActionLink("Next", "Index", new {page = Model.PageIndex + 1})
+            @Html.Raw("</span>")
+        }
+    }
+</span>

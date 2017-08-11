@@ -1,0 +1,5 @@
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\MiroFrontEnd\DataAccess.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\MiroFrontEnd\Dapper.Contrib.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\MiroFrontEnd\Dapper.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\MiroFrontEnd\Dapper.xml
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\obj\MiroFrontEnd\DataAccess.dll

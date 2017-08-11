@@ -1,0 +1,13 @@
+﻿@{
+    ViewBag.Title = "title";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<script>
+    $(document).ready(function() {
+        var storedIsbns = JSON.parse(localStorage.getItem("isbns"));
+        var location = "@Url.Action("Cart", "Book", new {isbns = "REPLACEME"})";
+        location = location.replace("REPLACEME", storedIsbns.join());
+        window.location.href = location;
+    });
+</script>

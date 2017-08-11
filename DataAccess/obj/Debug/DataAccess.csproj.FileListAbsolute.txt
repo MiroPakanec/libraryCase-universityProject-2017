@@ -1,0 +1,8 @@
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\Debug\Dapper.Contrib.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\Debug\Dapper.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\Debug\Dapper.xml
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\obj\Debug\DataAccess.pdb

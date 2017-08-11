@@ -1,0 +1,8 @@
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\MiroLocal\DataAccess.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\MiroLocal\DataAccess.pdb
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\MiroLocal\Dapper.Contrib.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\MiroLocal\Dapper.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\bin\MiroLocal\Dapper.xml
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\obj\MiroLocal\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\obj\MiroLocal\DataAccess.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\DataAccess\obj\MiroLocal\DataAccess.pdb

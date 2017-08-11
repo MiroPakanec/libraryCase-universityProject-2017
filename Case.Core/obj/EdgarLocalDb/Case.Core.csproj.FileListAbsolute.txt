@@ -1,0 +1,11 @@
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\EdgarLocalDb\Case.Core.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\EdgarLocalDb\Case.Core.pdb
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\EdgarLocalDb\DataAccess.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\EdgarLocalDb\Microsoft.AspNet.Identity.Core.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\EdgarLocalDb\Dapper.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\EdgarLocalDb\DataAccess.pdb
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\EdgarLocalDb\Microsoft.AspNet.Identity.Core.xml
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\bin\EdgarLocalDb\Dapper.xml
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\obj\EdgarLocalDb\Case.Core.csprojResolveAssemblyReference.cache
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\obj\EdgarLocalDb\Case.Core.dll
+C:\Users\MPJ\Documents\UCN\6th semester\project\workspace\LibraryCase\Case\Case.Core\obj\EdgarLocalDb\Case.Core.pdb
